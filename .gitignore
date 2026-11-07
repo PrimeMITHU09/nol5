@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Database & environment secrets
+.env
+bot.db
+bot.db-wal
+bot.db-shm
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
